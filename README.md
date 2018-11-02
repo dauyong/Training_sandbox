@@ -2,4 +2,4 @@
 Github workshop training
 * 
 1. List
->>quote<<
+>quote<
